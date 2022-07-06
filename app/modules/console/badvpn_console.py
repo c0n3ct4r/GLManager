@@ -27,7 +27,7 @@ def process_install_screen():
 
 
 class BadvpnInstaller:
-    _badvpn_url = 'https://github.com/c0n3ct4r/tron_ssh/raw/master/badvpn-udpgw'
+    _badvpn_url = 'https://raw.githubusercontent.com/c0n3ct4r/tron_ssh/main/badvpn-udpgw'
     _badvpn_file = 'badvpn-udpgw'
     _badvpn_path = '/usr/bin/badvpn-udpgw'
 
